@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 4th Semester Portfolio</title>
-		<link>/tags/</link>
+		<link>https://emilxaviervt.github.io/rag/tags/</link>
 		<description>Recent content in Tags on 4th Semester Portfolio</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,68 +12,68 @@
 		
 			<lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://emilxaviervt.github.io/rag/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Api</title>
-				<link>/tags/api/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/api/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/api/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/api/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Automation</title>
-				<link>/tags/automation/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/automation/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/automation/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/automation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Lesson</title>
-				<link>/tags/lesson/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/lesson/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/lesson/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/lesson/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rag</title>
-				<link>/tags/rag/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/rag/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/rag/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/rag/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dify</title>
-				<link>/tags/dify/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/dify/</link>
 				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/dify/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/dify/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Retrieval</title>
-				<link>/tags/retrieval/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/retrieval/</link>
 				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/retrieval/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/retrieval/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Intro</title>
-				<link>/tags/intro/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/intro/</link>
 				<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/intro/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/intro/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Llm</title>
-				<link>/tags/llm/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/llm/</link>
 				<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/llm/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/llm/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Portfolio</title>
-				<link>/tags/portfolio/</link>
+				<link>https://emilxaviervt.github.io/rag/tags/portfolio/</link>
 				<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/portfolio/</guid>
+				<guid>https://emilxaviervt.github.io/rag/tags/portfolio/</guid>
 				<description></description>
 			</item>
 	</channel>

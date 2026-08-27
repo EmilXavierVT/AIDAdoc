@@ -4,8 +4,8 @@
     <h1>AI Driven Apps.</h1>
     <p class="hero-copy">{{ site.Params.description }}</p>
     <div class="hero-actions">
-      <a class="button primary" href="{{ "/posts" | relURL }}">Open lesson log</a>
-      <a class="button" href="{{ "/about" | relURL }}">About this portfolio</a>
+      <a class="button primary" href="{{ (site.GetPage "/posts").RelPermalink }}">Open lesson log</a>
+      <a class="button" href="{{ (site.GetPage "/about").RelPermalink }}">About this portfolio</a>
     </div>
   </section>
 

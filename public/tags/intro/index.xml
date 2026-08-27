@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Intro on 4th Semester Portfolio</title>
-		<link>/tags/intro/</link>
+		<link>https://emilxaviervt.github.io/rag/tags/intro/</link>
 		<description>Recent content in Intro on 4th Semester Portfolio</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://emilxaviervt.github.io/rag/tags/intro/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lesson 01: Intro</title>
-				<link>/posts/lesson-01/</link>
+				<link>https://emilxaviervt.github.io/rag/posts/lesson-01/</link>
 				<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>/posts/lesson-01/</guid>
+				<guid>https://emilxaviervt.github.io/rag/posts/lesson-01/</guid>
 				<description>&lt;h2 id=&#34;focus&#34;&gt;Focus&lt;/h2&gt;&#xA;&lt;p&gt;Introduction to AI-driven applications, LLMs as part of modern software architecture, and setting up a portfolio site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-worked-on&#34;&gt;What We Worked On&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;set up a portfolio site with Hugo&lt;/li&gt;&#xA;&lt;li&gt;worked with Blowfish as the theme&lt;/li&gt;&#xA;&lt;li&gt;prepared deployment with GitHub and GitHub Pages&lt;/li&gt;&#xA;&lt;li&gt;wrote a short reflection on expectations for AI in software development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;&#xA;&lt;p&gt;LLMs were presented as building blocks in modern applications rather than as standalone products. The main idea was that the portfolio should document cases, reflections, and technical choices throughout the semester.&lt;/p&gt;</description>
 			</item>
 	</channel>
