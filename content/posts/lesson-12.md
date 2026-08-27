@@ -9,7 +9,7 @@ tags = ["lesson", "security", "secrets", "credentials"]
 
 Secure handling of keys, credentials, and development environments when working with coding agents and AI integrations.
 
-## What We Worked  
+## What We Worked
 
 - worked with security in the development process
 - examined risks around secrets in AI-assisted workflows
