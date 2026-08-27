@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Automation on 4th Semester Portfolio</title>
+		<link>/tags/automation/</link>
+		<description>Recent content in Automation on 4th Semester Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lesson 03: RAG II</title>
+				<link>/posts/lesson-03/</link>
+				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>/posts/lesson-03/</guid>
+				<description>&lt;h2 id=&#34;focus&#34;&gt;Focus&lt;/h2&gt;&#xA;&lt;p&gt;Further work with RAG, retrieval quality, prompt design, and automation around a document-based solution.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-worked-on&#34;&gt;What We Worked On&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;explored options with ChatGPT and Claude&lt;/li&gt;&#xA;&lt;li&gt;worked on structuring sources&lt;/li&gt;&#xA;&lt;li&gt;looked at API access to a published chatbot&lt;/li&gt;&#xA;&lt;li&gt;discussed updating knowledge through automation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;&#xA;&lt;p&gt;The central theme was that a RAG solution is not finished just because it can answer. Retrieval quality, source structure, and the way prompts are phrased directly affect the quality of the answers.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

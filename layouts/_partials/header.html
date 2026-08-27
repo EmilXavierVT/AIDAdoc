@@ -1,0 +1,7 @@
+<div class="header-row">
+  <div>
+    <a class="brand" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+    <p class="brand-copy">{{ site.Params.tagline }}</p>
+  </div>
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</div>

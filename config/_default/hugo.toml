@@ -1,0 +1,37 @@
+title = "4th Semester Portfolio"
+theme = "blowfish"
+defaultContentLanguage = "en"
+summaryLength = 30
+
+[languages]
+  [languages.en]
+    label = "English"
+    locale = "en-US"
+    weight = 1
+
+[params]
+  description = "A portfolio documenting my 4th semester in the Computer Science AP programme."
+  tagline = "4th semester reflections, builds, and lesson notes"
+  semester = "4th Semester"
+  programme = "Computer Science AP"
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+  [[menus.main]]
+    name = "Lessons"
+    pageRef = "/posts"
+    weight = 20
+
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 30
+
+  [[menus.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 40

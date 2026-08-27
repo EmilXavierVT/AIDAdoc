@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <section class="content-section">
+    <div class="section-heading">
+      <p class="eyebrow">Browse</p>
+      <h1>{{ .Title }}</h1>
+    </div>
+    <div class="tag-cloud">
+      {{ range .Pages }}
+        <a class="tag-pill" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

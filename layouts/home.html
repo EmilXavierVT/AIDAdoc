@@ -1,0 +1,40 @@
+{{ define "main" }}
+  <section class="hero-card">
+    <p class="eyebrow">{{ site.Params.semester }} · {{ site.Params.programme }}</p>
+    <h1>AI Driven Apps.</h1>
+    <p class="hero-copy">{{ site.Params.description }}</p>
+    <div class="hero-actions">
+      <a class="button primary" href="{{ "/posts" | relURL }}">Open lesson log</a>
+      <a class="button" href="{{ "/about" | relURL }}">About this portfolio</a>
+    </div>
+  </section>
+
+  <section class="info-grid">
+    <article class="panel">
+      <p class="panel-label">Structure</p>
+      <h2>One post per lesson</h2>
+      <p>Each post may capture concepts, code, challenges, and the next thing to practice.</p>
+    </article>
+    <article class="panel">
+      <p class="panel-label">Goal</p>
+      <h2>Show process, not just results</h2>
+      <p>This portfolio works as a semester journal, making growth visible over time.</p>
+    </article>
+  </section>
+
+  <section class="content-section">
+    <div class="section-heading">
+      <p class="eyebrow">Recent entries</p>
+      <h2>Latest lesson posts</h2>
+    </div>
+    <div class="card-list">
+      {{ range first 6 (where site.RegularPages.ByDate.Reverse "Section" "posts") }}
+        <article class="entry-card">
+          <p class="entry-meta">{{ .Date | time.Format ":date_long" }}</p>
+          <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+          <p>{{ with .Summary }}{{ . | plainify }}{{ else }}Open the entry to read the full lesson reflection.{{ end }}</p>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

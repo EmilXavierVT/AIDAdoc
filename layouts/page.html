@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <article class="entry-page">
+    <p class="eyebrow">Lesson entry</p>
+    <h1>{{ .Title }}</h1>
+    <p class="entry-meta">{{ .Date | time.Format ":date_long" }}</p>
+    <div class="entry-content">
+      {{ .Content }}
+    </div>
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  </article>
+{{ end }}
