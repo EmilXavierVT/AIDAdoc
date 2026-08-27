@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Lesson Log on 4th Semester Portfolio</title>
-		<link>https://emilxaviervt.github.io/rag/posts/</link>
+		<link>https://emilxaviervt.github.io/AIDAdoc/posts/</link>
 		<description>Recent content in Lesson Log on 4th Semester Portfolio</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://emilxaviervt.github.io/rag/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://emilxaviervt.github.io/AIDAdoc/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lesson 03: RAG II</title>
-				<link>https://emilxaviervt.github.io/rag/posts/lesson-03/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/posts/lesson-03/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/posts/lesson-03/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/posts/lesson-03/</guid>
 				<description>&lt;h2 id=&#34;focus&#34;&gt;Focus&lt;/h2&gt;&#xA;&lt;p&gt;Further work with RAG, retrieval quality, prompt design, and automation around a document-based solution.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-worked-on&#34;&gt;What We Worked On&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;explored options with ChatGPT and Claude&lt;/li&gt;&#xA;&lt;li&gt;worked on structuring sources&lt;/li&gt;&#xA;&lt;li&gt;looked at API access to a published chatbot&lt;/li&gt;&#xA;&lt;li&gt;discussed updating knowledge through automation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;&#xA;&lt;p&gt;The central theme was that a RAG solution is not finished just because it can answer. Retrieval quality, source structure, and the way prompts are phrased directly affect the quality of the answers.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lesson 02: RAG I</title>
-				<link>https://emilxaviervt.github.io/rag/posts/lesson-02/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/posts/lesson-02/</link>
 				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/posts/lesson-02/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/posts/lesson-02/</guid>
 				<description>&lt;h2 id=&#34;focus&#34;&gt;Focus&lt;/h2&gt;&#xA;&lt;p&gt;Introduction to retrieval-augmented generation and the difference between a standard chatbot and a solution that works with its own documents.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-worked-on&#34;&gt;What We Worked On&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;worked with RAG as an architecture&lt;/li&gt;&#xA;&lt;li&gt;compared different platforms for document-based chatbots&lt;/li&gt;&#xA;&lt;li&gt;used source documents as the data foundation&lt;/li&gt;&#xA;&lt;li&gt;evaluated quality, flexibility, and usability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;&#xA;&lt;p&gt;RAG was treated as a way to connect a language model to a limited source foundation. The point is that answers should be grounded in actual sources rather than only in the model&amp;rsquo;s general knowledge.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lesson 01: Intro</title>
-				<link>https://emilxaviervt.github.io/rag/posts/lesson-01/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/posts/lesson-01/</link>
 				<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/posts/lesson-01/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/posts/lesson-01/</guid>
 				<description>&lt;h2 id=&#34;focus&#34;&gt;Focus&lt;/h2&gt;&#xA;&lt;p&gt;Introduction to AI-driven applications, LLMs as part of modern software architecture, and setting up a portfolio site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-worked-on&#34;&gt;What We Worked On&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;set up a portfolio site with Hugo&lt;/li&gt;&#xA;&lt;li&gt;worked with Blowfish as the theme&lt;/li&gt;&#xA;&lt;li&gt;prepared deployment with GitHub and GitHub Pages&lt;/li&gt;&#xA;&lt;li&gt;wrote a short reflection on expectations for AI in software development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;&#xA;&lt;p&gt;LLMs were presented as building blocks in modern applications rather than as standalone products. The main idea was that the portfolio should document cases, reflections, and technical choices throughout the semester.&lt;/p&gt;</description>
 			</item>
 	</channel>

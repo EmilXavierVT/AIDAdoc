@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Retrieval on 4th Semester Portfolio</title>
-		<link>https://emilxaviervt.github.io/rag/tags/retrieval/</link>
+		<link>https://emilxaviervt.github.io/AIDAdoc/tags/retrieval/</link>
 		<description>Recent content in Retrieval on 4th Semester Portfolio</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://emilxaviervt.github.io/rag/tags/retrieval/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://emilxaviervt.github.io/AIDAdoc/tags/retrieval/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Lesson 02: RAG I</title>
-				<link>https://emilxaviervt.github.io/rag/posts/lesson-02/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/posts/lesson-02/</link>
 				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/posts/lesson-02/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/posts/lesson-02/</guid>
 				<description>&lt;h2 id=&#34;focus&#34;&gt;Focus&lt;/h2&gt;&#xA;&lt;p&gt;Introduction to retrieval-augmented generation and the difference between a standard chatbot and a solution that works with its own documents.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-worked-on&#34;&gt;What We Worked On&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;worked with RAG as an architecture&lt;/li&gt;&#xA;&lt;li&gt;compared different platforms for document-based chatbots&lt;/li&gt;&#xA;&lt;li&gt;used source documents as the data foundation&lt;/li&gt;&#xA;&lt;li&gt;evaluated quality, flexibility, and usability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;&#xA;&lt;p&gt;RAG was treated as a way to connect a language model to a limited source foundation. The point is that answers should be grounded in actual sources rather than only in the model&amp;rsquo;s general knowledge.&lt;/p&gt;</description>
 			</item>
 	</channel>

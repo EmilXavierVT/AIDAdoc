@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 4th Semester Portfolio</title>
-		<link>https://emilxaviervt.github.io/rag/tags/</link>
+		<link>https://emilxaviervt.github.io/AIDAdoc/tags/</link>
 		<description>Recent content in Tags on 4th Semester Portfolio</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,68 +12,68 @@
 		
 			<lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://emilxaviervt.github.io/rag/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://emilxaviervt.github.io/AIDAdoc/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Api</title>
-				<link>https://emilxaviervt.github.io/rag/tags/api/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/api/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/api/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/api/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Automation</title>
-				<link>https://emilxaviervt.github.io/rag/tags/automation/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/automation/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/automation/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/automation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Lesson</title>
-				<link>https://emilxaviervt.github.io/rag/tags/lesson/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/lesson/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/lesson/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/lesson/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rag</title>
-				<link>https://emilxaviervt.github.io/rag/tags/rag/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/rag/</link>
 				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/rag/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/rag/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dify</title>
-				<link>https://emilxaviervt.github.io/rag/tags/dify/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/dify/</link>
 				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/dify/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/dify/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Retrieval</title>
-				<link>https://emilxaviervt.github.io/rag/tags/retrieval/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/retrieval/</link>
 				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/retrieval/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/retrieval/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Intro</title>
-				<link>https://emilxaviervt.github.io/rag/tags/intro/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/intro/</link>
 				<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/intro/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/intro/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Llm</title>
-				<link>https://emilxaviervt.github.io/rag/tags/llm/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/llm/</link>
 				<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/llm/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/llm/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Portfolio</title>
-				<link>https://emilxaviervt.github.io/rag/tags/portfolio/</link>
+				<link>https://emilxaviervt.github.io/AIDAdoc/tags/portfolio/</link>
 				<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://emilxaviervt.github.io/rag/tags/portfolio/</guid>
+				<guid>https://emilxaviervt.github.io/AIDAdoc/tags/portfolio/</guid>
 				<description></description>
 			</item>
 	</channel>
