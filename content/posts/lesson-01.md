@@ -41,6 +41,10 @@ Indholdet organiseres i Hugo under `content/`, og deployment-sporet peger mod Gi
 - markdown and static sites provide a simple and robust publishing model
 - LLMs should be understood as part of an architecture, not just as a chat interface
 
+## Reflection
+
+At the start of the course I mostly saw the portfolio as a required place to collect notes, but this lesson changed it into something more useful: a running record of how my understanding develops. Setting up Hugo and GitHub Pages also made the technical side of documentation feel more concrete. I learned that the site itself is part of the work, because it forces me to explain what I build and why the choices matter.
+
 ## References
 
 - [Introduction to the course and its structure (PDF)](https://aida.kursusmaterialer.dk/01-intro/session-1.pdf)

@@ -58,6 +58,10 @@ An example of the output format was:
 - rubric and prompt design are tightly connected
 - error handling, timeouts, rate limits, and validation are part of the integration from the start
 
+## Reflection
+
+This lesson made the backend boundary feel important. If an application uses an LLM, the model call should be treated like any other external dependency: protected, validated, and wrapped in application logic. The structured JSON task also helped me see that prompts are not just text; they are part of an interface contract between the system and the model.
+
 ## References
 
 - [Today's task](https://aida.kursusmaterialer.dk/05-llm-api/opgave/)

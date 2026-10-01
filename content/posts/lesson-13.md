@@ -39,6 +39,17 @@ claude mcp add demo-server --command java --arg -jar --arg /FULL/PATH/TO/target/
 - local `stdio` servers are a good starting point for understanding the protocol
 - structured tool calls make it easier to build reliable assisted workflows
 
+## Reflection
+
+MCP helped me understand a more structured way to connect AI assistants to real tools. Compared with a normal chat prompt, an MCP tool has a clearer contract and can be tested as part of a workflow. That connects back to the whole semester: if AI is going to support real development or project work, the integration needs boundaries, permissions, and predictable behavior rather than informal copy-paste interactions.
+
+## Project Connection
+
+MCP gives a useful direction for future tooling around the project, where assistants could interact with structured project or scheduling tools through controlled interfaces.
+
+- [Supavisor backend and project code](https://github.com/EmilXavierVT/Supavisor)
+- [Supavisor frontend remake](https://github.com/DannyShayH/Supavisor-frontend-remake)
+
 ## References
 
 - [MCP Introduction](https://aida.kursusmaterialer.dk/toolbox/mcp/mcp/)

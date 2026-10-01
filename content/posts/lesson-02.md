@@ -40,6 +40,10 @@ An important working principle was to keep the data foundation small, relevant, 
 - good answers require relevant documents and solid structure
 - citations and traceability matter if the solution is to be used academically or professionally
 
+## Reflection
+
+This was the first lesson where RAG started to feel like an application pattern instead of just a buzzword. I became more aware that a chatbot is only as trustworthy as the sources and structure behind it. Since the beginning of the semester, this lesson has shaped how I think about Supavisor too: the value is not only in adding AI, but in connecting answers to real project, customer, assignment, and scheduling data.
+
 ## References
 
 - [Introduction to RAG (PDF)](https://aida.kursusmaterialer.dk/02-rag-1/chatbots.pdf)

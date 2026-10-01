@@ -41,6 +41,16 @@ There was also a contrast between narrow tool calls such as `searchPublicDocs(qu
 - convenience and security are not the same thing
 - access to files, logs, and shell commands must be deliberately constrained
 
+## Reflection
+
+Security was one of the most practical lessons for my current workflow. Supavisor uses backend configuration, API access, authentication, and external service concepts, so careless handling of secrets would be a real risk. The lesson also changed how I think about AI coding tools: giving an assistant access to a repository is useful, but it means I need stricter habits around `.env` files, logs, test keys, and what I include in prompts.
+
+## Project Connection
+
+The security lesson is directly relevant to the Supavisor backend because authentication, configuration, external APIs, and environment variables all require careful handling.
+
+- [Supavisor backend and project code](https://github.com/EmilXavierVT/Supavisor)
+
 ## References
 
 - [Is it secret? Is it safe? (PDF)](https://aida.kursusmaterialer.dk/12-sikkerhedsaspekter/is-it-secret-is-it-safe.pdf)

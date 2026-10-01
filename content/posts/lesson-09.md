@@ -37,6 +37,17 @@ The recurring argument was that clear specs reduce the risk of the agent heading
 - clear acceptance criteria are especially important when working with coding agents
 - Naur reminds us that documents alone do not carry the system understanding
 
+## Reflection
+
+Spec-driven development connected directly with how I want to work with agents. When the specification is vague, the agent may still produce code, but it becomes harder to judge whether the code is right. Naur's theory-building idea also made sense in relation to Supavisor: the important knowledge is not only in the repository, but in the understanding of why routes, roles, assignments, and project states are modeled the way they are.
+
+## Project Connection
+
+The Supavisor codebase is a good example of why specs matter: backend entities, route security, DTOs, and frontend screens need a shared model before agents or developers can safely extend the system.
+
+- [Supavisor backend and project code](https://github.com/EmilXavierVT/Supavisor)
+- [Supavisor frontend remake](https://github.com/DannyShayH/Supavisor-frontend-remake)
+
 ## References
 
 - [Spec Driven Development and Naur - slide deck (PDF)](https://aida.kursusmaterialer.dk/09-spec-driven-dev/session-7-specs.pdf)

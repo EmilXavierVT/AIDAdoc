@@ -27,6 +27,10 @@ The published material for this lesson was brief, so the most important point wa
 - documenting decisions and iterations is part of the work
 - the quality of the collaboration depends on clear prompts and technical judgment
 
+## Reflection
+
+Working with coding agents made it clear that AI assistance does not remove responsibility from the developer. I still need to describe the task clearly, inspect the code, run tests, and decide whether the result fits the project. This became especially relevant in Supavisor, where backend routes, DTOs, security checks, and frontend behavior all have to line up instead of being solved as isolated snippets.
+
 ## References
 
 - [Claude Code in an Hour: A Developer's Intro](https://anthropic.ondemand.goldcast.io/on-demand/09d55ee8-3223-481e-88df-357b3e7868c4)

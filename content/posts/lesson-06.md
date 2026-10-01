@@ -40,6 +40,10 @@ A simple status model for longer-running jobs was:
 - validation of model output is necessary
 - even a simple first version should document its technical choices clearly
 
+## Reflection
+
+Implementation showed the gap between an idea and a working integration. It is easy to describe a rubric-based evaluation flow, but harder to handle invalid output, retries, errors, and traceability. That lesson carries into my project work because Supavisor already depends on clean service layers, DTO mapping, and predictable API responses; an AI feature would need the same discipline.
+
 ## References
 
 - [Today's task](https://aida.kursusmaterialer.dk/05-llm-api/opgave/)

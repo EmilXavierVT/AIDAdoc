@@ -24,6 +24,16 @@ The published material for this lesson was still limited to the topic heading it
 - privacy, bias, and risk are core themes in any AI-driven application
 - detailed materials and assignments had not yet been published for this topic
 
+## Reflection
+
+The legal and ethical topic made me think about the consequences of using AI in systems that may affect real users. Even if Supavisor is a semester project, it models business data, roles, customers, assignments, and employee-related workflows. That makes privacy, access control, fairness, and explainability relevant from the beginning rather than something to add after the feature is finished.
+
+## Project Connection
+
+Supavisor includes roles, users, customers, assignments, and project information, so responsible handling of data is part of the design.
+
+- [Supavisor backend and project code](https://github.com/EmilXavierVT/Supavisor)
+
 ## References
 
 - [Making Sense of AI: Method, Mind, and Morality](https://www.youtube.com/watch?v=D8Sr6-rNijs)

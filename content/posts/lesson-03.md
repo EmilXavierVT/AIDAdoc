@@ -39,6 +39,10 @@ An important API principle is that requests are tied to a user identity through 
 - prompting and source data should be improved together, not separately
 - automation matters if a chatbot needs to stay aligned with new content
 
+## Reflection
+
+The second RAG lesson made me think more about maintenance. A prototype can work once, but a useful system needs a way to keep its knowledge current. The API and automation angle connected well with my own coding work because it pushed me to think about the whole flow around a feature: data in, processing, API access, and reliable updates over time.
+
 ## References
 
 - [Dify API Documentation: Get Started](https://docs.dify.ai/en/api-reference/guides/get-started)
