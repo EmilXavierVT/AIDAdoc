@@ -1,0 +1,72 @@
+{{- $proxyURL := site.Params.ragProxyUrl | default "" -}}
+{{- $shareURL := site.Params.difyShareUrl | default "" -}}
+
+<button
+  class="aida-launcher"
+  type="button"
+  aria-controls="aida-guide"
+  aria-expanded="false"
+  data-aida-open
+>
+  <span class="aida-launcher-mark" aria-hidden="true">AI</span>
+  <span class="aida-launcher-copy">
+    <strong>Ask AIDA</strong>
+    <small data-aida-launch-state>READY</small>
+  </span>
+</button>
+
+<div class="aida-scrim" data-aida-scrim hidden></div>
+
+<aside
+  class="aida-guide"
+  id="aida-guide"
+  aria-hidden="true"
+  aria-label="Ask AIDA about this portfolio"
+  data-aida-panel
+  data-proxy-url="{{ $proxyURL }}"
+>
+  <header class="aida-guide-header">
+    <div>
+      <p class="aida-kicker">Portfolio intelligence</p>
+      <h2>Ask AIDA</h2>
+    </div>
+    <div class="aida-guide-actions">
+      <button type="button" class="aida-icon-button" data-aida-reset title="Reset conversation" aria-label="Reset conversation">↻</button>
+      <button type="button" class="aida-icon-button" data-aida-close title="Close AIDA" aria-label="Close AIDA">×</button>
+    </div>
+  </header>
+
+  <div class="aida-status" aria-live="polite">
+    <span aria-hidden="true"></span>
+    <strong data-aida-status>READY</strong>
+  </div>
+
+  <div class="aida-messages" data-aida-messages aria-live="polite" aria-relevant="additions text">
+    <article class="aida-message is-assistant">
+      <span>AIDA / GUIDE</span>
+      <p>I can help you navigate Emil's 4th-semester notes, explain RAG, MCP and agents, or connect ideas across lessons.</p>
+    </article>
+  </div>
+
+  <div class="aida-prompts" aria-label="Suggested questions">
+    <button type="button" data-aida-question="What is RAG?">What is RAG?</button>
+    <button type="button" data-aida-question="Explain MCP and where it appears in these notes.">Explain MCP</button>
+    <button type="button" data-aida-question="Which lessons cover agents?">Lessons about agents</button>
+    <button type="button" data-aida-question="Summarize Emil's 4th semester journey.">Semester summary</button>
+  </div>
+
+  <form class="aida-form" data-aida-form>
+    <label for="aida-question">Ask about the notes</label>
+    <div class="aida-input-row">
+      <textarea id="aida-question" name="question" rows="2" maxlength="1000" placeholder="Trace a concept across the portfolio..." required data-aida-input></textarea>
+      <button type="submit" aria-label="Send question" title="Send question">↑</button>
+    </div>
+  </form>
+
+  <footer class="aida-guide-footer">
+    <p data-aida-privacy>Questions are sent through Emil's Cloudflare proxy to AIDA.</p>
+    {{ with $shareURL }}
+      <a href="{{ . }}" target="_blank" rel="noopener">Open AIDA directly <span aria-hidden="true">↗</span></a>
+    {{ end }}
+  </footer>
+</aside>
