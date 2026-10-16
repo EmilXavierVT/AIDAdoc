@@ -15,7 +15,7 @@ summaryLength = 30
   tagline = "4th semester reflections, builds, and lesson notes"
   semester = "4th Semester"
   programme = "Computer Science AP"
-  mainPortfolioUrl = "https://emilxaviervt.github.io/AIDAportfolio/"
+  mainPortfolioUrl = "https://emilxaviervt.github.io/"
   ragProxyUrl = "https://emil-portfolio-rag-proxy.emilxavierthorsen.workers.dev"
   difyShareUrl = "https://udify.app/chat/0VFSQcouOi4BwHQZ"
 
@@ -42,5 +42,5 @@ summaryLength = 30
 
   [[menus.main]]
     name = "Main portfolio"
-    url = "https://emilxaviervt.github.io/AIDAportfolio/"
+    url = "https://emilxaviervt.github.io/"
     weight = 50
